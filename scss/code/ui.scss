@@ -1,0 +1,73 @@
+//Адаптивные изображения
+._ibg {
+	position: relative;
+	img {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		object-fit: cover;
+	}
+}
+
+.lang {
+	font-weight: 700;
+	&__ru,
+	&__eng {
+		color: #828282;
+	}
+
+	&__eng,
+	&__ru {
+		transition: color 0.15s ease 0s;
+		@media (min-width: ($md2 + px)) {
+			&:hover {
+				color: #48d1cc;
+			}
+		}
+	}
+}
+.separator {
+	color: #070707;
+	margin: 0px 5px;
+	font-weight: 700;
+}
+
+.block-title {
+	font-size: 34px;
+	line-height: math.div(42, 32) * 100%;
+	font-weight: 700;
+	color: inherit;
+}
+.desc-text {
+	font-size: 18px;
+	line-height: math.div(22, 18) * 100%;
+	font-weight: 500;
+	color: inherit;
+}
+.btn {
+	overflow: hidden;
+	min-width: 100%;
+	color: #fff;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: math.div(22, 18) * 100%;
+	text-align: center;
+	vertical-align: middle;
+	padding: 8px 30px 9px 30px;
+	background-color: #070707;
+	border-radius: 30px;
+	white-space: none;
+
+	@media (max-width: ($md3+ px)) {
+		padding: 12px 30%;
+	}
+	@media (max-width: (324px)) {
+		padding: 12px 20%;
+	}
+}
+
+.selected__language {
+	color: inherit;
+}

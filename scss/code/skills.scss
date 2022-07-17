@@ -1,0 +1,54 @@
+.skills {
+	padding: 90px 0px 107px 0px;
+	@media (max-width: ($md3 + px)) {
+		padding: 80px 0px 107px 0px;
+	}
+
+	&__info {
+		text-align: center;
+	}
+
+	&__title {
+		margin: 0px 0px 69px 0px;
+		@media (max-width: ($md3 + px)) {
+			margin: 0px 0px 50px 0px;
+		}
+	}
+
+	&__desc {
+		margin: 0px 0px 93px 0px;
+		@media (max-width: ($md3 + px)) {
+			margin: 0px 0px 80px 0px;
+		}
+	}
+
+	&__row {
+		@media (max-width: ($md3 + px)) {
+			flex-direction: column;
+		}
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+}
+.item {
+	@media (max-width: ($md3 + px)) {
+		margin: 0px 0px 86px 0px;
+	}
+
+	&__img {
+		max-width: 100%;
+		margin: 0px 0px 25px 0px;
+	}
+
+	&__name {
+		font-size: 14px;
+		line-height: math.div(17, 14) * 100%;
+		font-weight: 700;
+		color: #828282;
+		margin: 0px 0px 40px 0px;
+	}
+	&:last-child &__name {
+		margin: 0px 0px 55px 0px;
+	}
+}
