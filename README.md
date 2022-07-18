@@ -1,6 +1,6 @@
 # Portfolio landing page.
 ## Description
-This project was created for practice. The layout was found in the public domain, source: https://blog.maxgraph.ru/besplatnye-makety-figma-dlya-verstki-sajta /.
+This project created for practice. The layout was found in the public domain, source: https://blog.maxgraph.ru/besplatnye-makety-figma-dlya-verstki-sajta /.
 ## Stack of technologies and practices that were used in the creation:
 - HTML
 - CSS
