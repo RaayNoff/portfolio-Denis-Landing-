@@ -5,12 +5,11 @@ This project was  created for practice. The layout was found in the public domai
 - HTML
 - CSS
 - Java Script (First, the ES5 syntax was used, then I adapted the code to the ES6 syntax)
-
 ---
-
 1. GULP (Task Manager)
 2. SCSS
 3. BEM methodology for html tags naming
-4. Icons font
-5. Adaptive markup (Mobile-first | Desktop-fist)  
-6. NPM
+4. MVC pattern
+5. Icons font
+6. Adaptive markup (Mobile-first | Desktop-fist)  
+7. NPM
