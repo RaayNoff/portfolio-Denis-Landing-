@@ -13,3 +13,16 @@ This project was  created for practice. The layout was found in the public domai
 5. Icons font
 6. Adaptive markup (Mobile-first | Desktop-fist)  
 7. NPM
+
+
+![Screenshot #1](https://i.imgur.com/QQPvkOS.png)
+![Screenshot #2](https://i.imgur.com/vqWdCpS.png)
+![Screenshot #3](https://i.imgur.com/h0PaeDs.png)
+![Screenshot #4](https://i.imgur.com/cY9Clgu.png)
+![Screenshot #5](https://i.imgur.com/RGr2SDR.png)
+![Screenshot #6](https://i.imgur.com/zBMgTNG.png)
+![Screenshot #7](https://i.imgur.com/r2MZvog.png)
+![Screenshot #8](https://i.imgur.com/hJicBXa.png)
+![Screenshot #9](https://i.imgur.com/kBoaUZA.png)
+![Screenshot #10](https://i.imgur.com/6bfHLfn.png)
+
